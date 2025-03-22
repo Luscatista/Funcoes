@@ -1,0 +1,15 @@
+C:\Users\fic\source\repos\Funcoes\Funcoes\bin\Debug\net9.0\Funcoes.exe
+C:\Users\fic\source\repos\Funcoes\Funcoes\bin\Debug\net9.0\Funcoes.deps.json
+C:\Users\fic\source\repos\Funcoes\Funcoes\bin\Debug\net9.0\Funcoes.runtimeconfig.json
+C:\Users\fic\source\repos\Funcoes\Funcoes\bin\Debug\net9.0\Funcoes.dll
+C:\Users\fic\source\repos\Funcoes\Funcoes\bin\Debug\net9.0\Funcoes.pdb
+C:\Users\fic\source\repos\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\source\repos\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.AssemblyInfo.cs
+C:\Users\fic\source\repos\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.sourcelink.json
+C:\Users\fic\source\repos\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.dll
+C:\Users\fic\source\repos\Funcoes\Funcoes\obj\Debug\net9.0\refint\Funcoes.dll
+C:\Users\fic\source\repos\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.pdb
+C:\Users\fic\source\repos\Funcoes\Funcoes\obj\Debug\net9.0\Funcoes.genruntimeconfig.cache
+C:\Users\fic\source\repos\Funcoes\Funcoes\obj\Debug\net9.0\ref\Funcoes.dll
