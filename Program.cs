@@ -50,3 +50,74 @@ void MostrarMensagem()
 }
 
 MostrarMensagem();
+
+Console.WriteLine("Exercícios Intermediários");
+Console.WriteLine();
+Console.WriteLine("4. Cálculo de Média");
+Console.WriteLine("Crie uma função chamada `CalcularMedia` que recebe três notas como parâmetros e retorna a média delas.");
+Console.WriteLine();
+
+double CalcularMedia(double n1, double n2, double n3)
+{
+    double media = (n1 + n2 + n3) / 3;
+    return media;
+}
+
+double media = CalcularMedia(7.5, 8.0, 6.5);
+Console.WriteLine("Média: " + media);
+Console.WriteLine();
+
+Console.WriteLine("5. Verificação de Número Par");
+Console.WriteLine("Crie uma função chamada `EhPar` que recebe um número inteiro e retorna `true` se ele for par e `false` se for ímpar.\r\n");
+Console.WriteLine();
+
+bool EhPar(int num)
+{
+    if(num % 2 == 0)
+    {
+        return true;
+    }
+    return false;
+}
+
+bool resultado = EhPar(10);
+Console.WriteLine(resultado);
+Console.WriteLine();
+
+Console.WriteLine("6. Conversão de Temperatura");
+Console.WriteLine("Crie uma função chamada `CelsiusParaFahrenheit` que recebe uma temperatura em graus Celsius e retorna o equivalente em Fahrenheit.\r\n");
+Console.WriteLine();
+
+double CelsiusParaFahrenheit(double n1)
+{
+    double fahrenheit = (n1 * 9 / 5) + 32;
+    return fahrenheit;
+}
+
+double fahrenheit = CelsiusParaFahrenheit(25);
+Console.WriteLine(fahrenheit);
+Console.WriteLine();
+
+Console.WriteLine("Exercícios Avançados");
+Console.WriteLine();
+Console.WriteLine("7. Contador de Vogais");
+Console.WriteLine("Crie uma função chamada `ContarVogais` que recebe uma string e retorna a quantidade de vogais (a, e, i, o, u) na palavra.");
+Console.WriteLine();
+
+
+//Corrigir o exercicio abaixo
+int ContarVogais(string palavra)
+{
+    int total = 0;
+    foreach (var item in palavra)
+    {
+        if (item == 'a' || item == 'e' || item == 'i' || item == 'o' || item == 'u')
+        {
+            total++;
+        }
+    }
+    return total;
+}
+
+int totalVogais = ContarVogais("Programação");
+Console.WriteLine(totalVogais);
